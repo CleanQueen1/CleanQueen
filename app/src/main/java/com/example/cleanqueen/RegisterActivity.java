@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 public class RegisterActivity extends AppCompatActivity {
-
+// was bedoeld om registratie te laten gebeuren via email+password, is niet volledig geimplementeerd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

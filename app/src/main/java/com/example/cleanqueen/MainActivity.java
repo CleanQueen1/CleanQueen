@@ -11,7 +11,7 @@ import com.example.cleanqueen.ui.login.LoginActivity;
 public class MainActivity extends AppCompatActivity {
 
     private Button b;
-
+    // mainactivity is startscherm: linkt naar signin en login activities via  de 2 buttons
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

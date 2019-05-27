@@ -25,7 +25,7 @@ import com.example.cleanqueen.ui.login.LoginViewModelFactory;
 public class LoginActivity extends AppCompatActivity {
 
     private LoginViewModel loginViewModel;
-
+//gebruiker logt in via email + password, vanaf login veranderd state van gebruiker naar logged in, krijgt toegang tot de rest van de app(niet volledig geimplementeerd)
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
